@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-In this project I had  analyzed  cardiovascular disease data using Python. The main goal is to clean the data, explore relationships between variables, and use a machine learning model and to Evaluate the model accuracy.
+In this project I had  analyzed  cardiovascular disease data using Python. The main goal is to clean the data, explore relationships between variables,and use a machine learning model to predict whether a person is likely to have cardiovascular disease (CVD).
 
 ---
 
